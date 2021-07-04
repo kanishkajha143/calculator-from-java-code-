@@ -1,2 +1,3 @@
 # calculator_from_java
-this is a simple calculator code from java using switch case..... hope would help u for small project
+This is a simple calculator code from java using switch case.
+Can be typically used in simple class project and clg project based on java calculator.
